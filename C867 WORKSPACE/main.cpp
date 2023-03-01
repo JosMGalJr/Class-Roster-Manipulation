@@ -6,7 +6,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Scripting and Programming - Applications - C867 | C++| #000930310 | Jose Galarza" << endl;
 
     /*All data that will be read and utilized*/
     const string studentData[] =
