@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jose\source\repos\C867 WORKSPACE\C867 WORKSPACE\</FILEPATH>
+      <FILENAME>student.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Student::daysInCourse' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Student::{ctor}</FUNCTION>
+    <DECORATED>??0Student@@QAE@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Student::daysInCourse</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jose\source\repos\C867 WORKSPACE\C867 WORKSPACE\</FILEPATH>
+      <FILENAME>student.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Student::degreeProgram' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Student::{ctor}</FUNCTION>
+    <DECORATED>??0Student@@QAE@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Student::degreeProgram</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jose\source\repos\C867 WORKSPACE\C867 WORKSPACE\</FILEPATH>
+      <FILENAME>student.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Student::age' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Student::{ctor}</FUNCTION>
+    <DECORATED>??0Student@@QAE@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Student::age</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jose\source\repos\C867 WORKSPACE\C867 WORKSPACE\</FILEPATH>
+      <FILENAME>student.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'DegreeProgram' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>Student::{ctor}</FUNCTION>
+    <DECORATED>??0Student@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000HQAHW4DegreeProgram@@@Z</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
